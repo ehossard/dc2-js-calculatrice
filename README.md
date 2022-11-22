@@ -1,1 +1,1 @@
-# dc2-js-calculatrice
+# dc2-js-calculatrice-hossard-etienne
